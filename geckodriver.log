@@ -1,0 +1,191 @@
+1497840996399	geckodriver	INFO	Listening on 127.0.0.1:51322
+1497840997537	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+1497841000661	Marionette	INFO	Listening on port 51331
+1497841000759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1497841000980	Marionette	DEBUG	loaded listener.js
+1497841001010	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-19 10:56:41.085 plugin-container[2511:59217] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x973b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-19 10:56:41.088 plugin-container[2511:59217] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1497841015841	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1497841015841	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://mail.bjtu.edu.cn/coremail/common/js/jquery.js, line 3687: unreachable code after return statement
+1497841016371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1497841020141	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1497841021102	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1497841022115	Marionette	DEBUG	Received DOM event "pagehide" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1497841022115	Marionette	DEBUG	Received DOM event "unload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1497841022840	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1497841022842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/index.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr#index.jsp?module=&cmURL=main!PERCENT2Fwelcome.jsp!PERCENT3Fsid!PERCENT3DCAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr&_suid=149784102280808567778092709926"
+1497841022843	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/index.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr"
+1497841022849	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/index.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr"
+1497841022872	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/main/intervalCheck.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr"
+1497841022877	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/main/intervalCheck.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr"
+1497841022886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/pab/loaddata.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr"
+1497841022888	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/pab/loaddata.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr"
+1497841023385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/main/welcome.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr"
+1497841023387	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/main/welcome.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr"
+1497841023492	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/load_nav.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr"
+1497841023495	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/load_nav.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr"
+JavaScript warning: https://mail.bjtu.edu.cn/coremail/XJS/mbox/list.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr&fid=1, line 121: unreachable code after return statement
+1497841023537	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/mbox/list.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr&fid=1"
+1497841023540	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/mbox/list.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr&fid=1"
+1497841023542	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/index.jsp?sid=CAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr#index.jsp?module=&cmURL=main!PERCENT2Fwelcome.jsp!PERCENT3Fsid!PERCENT3DCAllZrZZwzwsDAhNbtZZsCcMmSrbTPbr&_suid=149784102280808567778092709926"
+1497841025564	Marionette	INFO	New connections will no longer be accepted
+1497841025584	addons.xpi	WARN	Exception running bootstrap method shutdown on loop@mozilla.org: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js :: shutdown :: line 1447"  data: no] Stack trace: shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js:1447 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4982 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2917 < GeckoDriver.prototype.quit()@driver.js:2804 < TaskImpl_run()@resource://gre/modules/Task.jsm:319 < TaskImpl()@resource://gre/modules/Task.jsm:277 < asyncFunction()@resource://gre/modules/Task.jsm:252 < Task_spawn()@resource://gre/modules/Task.jsm:166 < TaskImpl_handleResultValue()@resource://gre/modules/Task.jsm:389 < TaskImpl_run()@resource://gre/modules/Task.jsm:327 < TaskImpl()@resource://gre/modules/Task.jsm:277 < asyncFunction()@resource://gre/modules/Task.jsm:252 < Task_spawn()@resource://gre/modules/Task.jsm:166 < execute()@server.js:500 < onPacket()@server.js:471 < _onJSONObjectReady/<()@transport.js:483 < exports.makeInfallible/<()@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101 < exports.makeInfallible/<()@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101
+1498027690809	geckodriver	INFO	Listening on 127.0.0.1:56308
+1498027692102	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+1498027694864	Marionette	INFO	Listening on port 56317
+1498027694968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498027695148	Marionette	DEBUG	loaded listener.js
+1498027695176	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-21 14:48:15.259 plugin-container[7041:158027] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-21 14:48:15.265 plugin-container[7041:158027] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498027695842	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498027695842	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://mail.bjtu.edu.cn/coremail/common/js/jquery.js, line 3687: unreachable code after return statement
+1498027697685	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027697742	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027698492	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027698530	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027698532	Marionette	DEBUG	Received DOM event "pagehide" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027698532	Marionette	DEBUG	Received DOM event "unload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027698607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=nssFailure2&u=https%3A//mail.bjtu.edu.cn/coremail/index.jsp%3Fcus%3D1&c=gbk&f=regular&d=The%20connection%20to%20mail.bjtu.edu.cn%20was%20interrupted%20while%20the%20page%20was%20loading."
+1498027746918	geckodriver	INFO	Listening on 127.0.0.1:56429
+1498027748098	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+1498027750391	Marionette	INFO	Listening on port 56438
+1498027750498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498027750678	Marionette	DEBUG	loaded listener.js
+1498027750706	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-21 14:49:10.778 plugin-container[7051:158669] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-21 14:49:10.782 plugin-container[7051:158669] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498027750801	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498027750802	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://mail.bjtu.edu.cn/coremail/common/js/jquery.js, line 3687: unreachable code after return statement
+1498027752120	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027752406	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027753107	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027754205	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027754207	Marionette	DEBUG	Received DOM event "pagehide" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027754207	Marionette	DEBUG	Received DOM event "unload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027754294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=nssFailure2&u=https%3A//mail.bjtu.edu.cn/coremail/index.jsp%3Fcus%3D1&c=gbk&f=regular&d=The%20connection%20to%20mail.bjtu.edu.cn%20was%20interrupted%20while%20the%20page%20was%20loading."
+1498027772323	addons.xpi	WARN	Exception running bootstrap method shutdown on loop@mozilla.org: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js :: shutdown :: line 1447"  data: no] Stack trace: shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js:1447 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4982 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2917
+1498027772593	Marionette	INFO	Ceased listening
+1498027793710	addons.xpi	WARN	Exception running bootstrap method shutdown on loop@mozilla.org: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js :: shutdown :: line 1447"  data: no] Stack trace: shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js:1447 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4982 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2917
+1498027793946	Marionette	INFO	Ceased listening
+1498027819436	geckodriver	INFO	Listening on 127.0.0.1:56549
+1498027820611	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+1498027822685	Marionette	INFO	Listening on port 56558
+1498027822796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498027822963	Marionette	DEBUG	loaded listener.js
+1498027822991	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-21 14:50:23.055 plugin-container[7069:159723] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-21 14:50:23.060 plugin-container[7069:159723] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498027823101	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498027823102	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://mail.bjtu.edu.cn/coremail/common/js/jquery.js, line 3687: unreachable code after return statement
+1498027824495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027824652	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027825342	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027825468	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027825469	Marionette	DEBUG	Received DOM event "pagehide" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027825469	Marionette	DEBUG	Received DOM event "unload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027825530	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=nssFailure2&u=https%3A//mail.bjtu.edu.cn/coremail/index.jsp%3Fcus%3D1&c=gbk&f=regular&d=The%20connection%20to%20mail.bjtu.edu.cn%20was%20interrupted%20while%20the%20page%20was%20loading."
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+2017-06-21 14:51:03.942 plugin-container[7075:160095] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-21 14:51:03.945 plugin-container[7075:160095] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498027884167	geckodriver	INFO	Listening on 127.0.0.1:56657
+1498027885281	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+1498027887434	Marionette	INFO	Listening on port 56666
+1498027887493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498027887738	Marionette	DEBUG	loaded listener.js
+1498027887766	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-21 14:51:27.841 plugin-container[7083:160555] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-21 14:51:27.843 plugin-container[7083:160555] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498027888524	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498027888525	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://mail.bjtu.edu.cn/coremail/common/js/jquery.js, line 3687: unreachable code after return statement
+1498027889261	addons.xpi	WARN	Exception running bootstrap method shutdown on loop@mozilla.org: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js :: shutdown :: line 1447"  data: no] Stack trace: shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js:1447 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4982 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2917
+1498027889517	Marionette	INFO	Ceased listening
+1498027890161	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027890277	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027890984	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027891520	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027891536	addons.xpi	WARN	Exception running bootstrap method shutdown on loop@mozilla.org: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js :: shutdown :: line 1447"  data: no] Stack trace: shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js:1447 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4982 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2917
+1498027891597	Marionette	DEBUG	Received DOM event "pagehide" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027891598	Marionette	DEBUG	Received DOM event "unload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498027891605	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1498028061925	geckodriver	INFO	Listening on 127.0.0.1:56826
+1498028063034	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+1498028065075	Marionette	INFO	Listening on port 56835
+1498028065138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498028065355	Marionette	DEBUG	loaded listener.js
+1498028065388	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-21 14:54:25.465 plugin-container[7137:162658] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-21 14:54:25.468 plugin-container[7137:162658] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498028065507	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498028065508	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://mail.bjtu.edu.cn/coremail/common/js/jquery.js, line 3687: unreachable code after return statement
+1498028066935	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498028067023	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498028067719	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498028069085	Marionette	DEBUG	Received DOM event "pagehide" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498028069085	Marionette	DEBUG	Received DOM event "unload" for "http://mail.bjtu.edu.cn/coremail/cmcu_var/index_cmxt30N1.jsp"
+1498028069734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1498028069759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/index.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL#index.jsp?module=&cmURL=main!PERCENT2Fwelcome.jsp!PERCENT3Fsid!PERCENT3DDAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL&_suid=149802806970606901814824375461"
+1498028069760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/index.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL"
+1498028069766	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/index.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL"
+1498028069775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/main/intervalCheck.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL"
+1498028069778	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/main/intervalCheck.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL"
+1498028069778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/pab/loaddata.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL"
+1498028069780	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/pab/loaddata.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL"
+1498028071359	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/main/welcome.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL"
+1498028071362	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/main/welcome.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL"
+1498028071455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/load_nav.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL"
+1498028071457	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/load_nav.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL"
+JavaScript warning: https://mail.bjtu.edu.cn/coremail/XJS/mbox/list.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL&fid=1, line 121: unreachable code after return statement
+1498028071812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.bjtu.edu.cn/coremail/XJS/mbox/list.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL&fid=1"
+1498028071814	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/mbox/list.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL&fid=1"
+1498028071817	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.bjtu.edu.cn/coremail/XJS/index.jsp?sid=DAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL#index.jsp?module=&cmURL=main!PERCENT2Fwelcome.jsp!PERCENT3Fsid!PERCENT3DDAqDqUPPeOFXFYEKXVPPfZnPyMoPYOpL&_suid=149802806970606901814824375461"
+1498028073845	Marionette	INFO	New connections will no longer be accepted
+1498028073864	addons.xpi	WARN	Exception running bootstrap method shutdown on loop@mozilla.org: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js :: shutdown :: line 1447"  data: no] Stack trace: shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js:1447 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4982 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2917 < GeckoDriver.prototype.quit()@driver.js:2804 < TaskImpl_run()@resource://gre/modules/Task.jsm:319 < TaskImpl()@resource://gre/modules/Task.jsm:277 < asyncFunction()@resource://gre/modules/Task.jsm:252 < Task_spawn()@resource://gre/modules/Task.jsm:166 < TaskImpl_handleResultValue()@resource://gre/modules/Task.jsm:389 < TaskImpl_run()@resource://gre/modules/Task.jsm:327 < TaskImpl()@resource://gre/modules/Task.jsm:277 < asyncFunction()@resource://gre/modules/Task.jsm:252 < Task_spawn()@resource://gre/modules/Task.jsm:166 < execute()@server.js:500 < onPacket()@server.js:471 < _onJSONObjectReady/<()@transport.js:483 < exports.makeInfallible/<()@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101 < exports.makeInfallible/<()@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101
+1498203173397	geckodriver	INFO	Listening on 127.0.0.1:58864
+1498203174506	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+JavaScript error: chrome://loop/content/modules/MozLoopService.jsm, line 122: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+1498203177488	Marionette	INFO	Listening on port 58873
+1498203177606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498203177937	Marionette	DEBUG	loaded listener.js
+2017-06-23 15:32:58.087 plugin-container[5499:239381] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-23 15:32:58.095 plugin-container[5499:239381] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+Invalid port. Exiting...
+Invalid port. Exiting...
+1498203504108	addons.xpi	WARN	Exception running bootstrap method shutdown on loop@mozilla.org: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js :: shutdown :: line 1447"  data: no] Stack trace: shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/loop@mozilla.org.xpi!/bootstrap.js:1447 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4982 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2917
+1498203504489	Marionette	INFO	Ceased listening
